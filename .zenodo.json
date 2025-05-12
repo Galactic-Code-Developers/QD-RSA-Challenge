@@ -1,7 +1,7 @@
 {
   "title": "Quantum-Disruptive RSA (QD-RSA): v1.2 Release",
   "upload_type": "software",
-  "description": "QD-RSA v1.2 introduces symbolic, entropy-hardened enhancements to classical RSA to protect against quantum threats. This initial release invites public cryptanalysis and deployment evaluation.\n\n\ud83d\udd10 \u03a6\u209b(x): Session-specific irrational masking\n\ud83d\udd10 \u039e\u209b(x): Entropy-shifted non-convex trap function\n\ud83d\udd10 \ud835\udcd8\u209b*(x): Symbolic hash wrapped in SHA3-256\n\nIncludes: Python, C, and C# reference implementations, version declaration, cryptanalysis brief, and test suite.\n\nThis release is certified backdoor-free: no embedded recovery key, trapdoor, or government-accessible override mechanism.",
+  "description": "QD-RSA v1.2 introduces symbolic, entropy-hardened enhancements to classical RSA to protect against quantum threats. This initial release invites public cryptanalysis and deployment evaluation.\n\n🔐 Φₛ(x): Session-specific irrational masking\n🔐 Ξₛ(x): Entropy-shifted non-convex trap function\n🔐 𝓘ₛ*(x): Symbolic hash wrapped in SHA3-256\n\nIncludes: Python, C, and C# reference implementations, version declaration, cryptanalysis brief, and test suite.\n\nThis release is certified backdoor-free: no embedded recovery key, trapdoor, or government-accessible override mechanism.\n\n🧩 Signature Layer Independence: QD-RSA v1.2 supports modular PQ signature integration beyond NIST-standardized schemes to enable cryptographic sovereignty. Compatible with Falcon, Dilithium, SPHINCS+, XMSS, Rainbow, or institutional PQ signatures.",
   "creators": [
     {
       "name": "Valamontes, Antonios",
