@@ -69,6 +69,9 @@ Please provide:
 - Version Declaration v1.2
 - Reference Implementation (Python, C, C#)
 
+### 🧩 Signature Layer Independence
+QD-RSA v1.2 does not rely on any single post-quantum signature authority. Its design supports pluggable integration with Falcon, Dilithium, SPHINCS+, XMSS, Rainbow, and sovereign PQ signature schemes.
+
 ## 📬 Contact
 
 For confidential disclosures: validation@kapodistrian.edu.gr
