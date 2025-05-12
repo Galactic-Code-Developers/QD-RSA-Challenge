@@ -1,6 +1,6 @@
-# 🚀 QD-RSA v1.1 – Initial Cryptanalysis Challenge Release
+# 🚀 QD-RSA v1.2 – Initial Cryptanalysis Challenge Release
 
-We are proud to announce the **v1.1 release** of **Quantum-Disruptive RSA (QD-RSA)**, a symbolic enhancement of RSA designed to resist quantum adversaries using Shor’s algorithm, Grover’s algorithm, and quantum annealing.
+We are proud to announce the **v1.2 release** of **Quantum-Disruptive RSA (QD-RSA)**, a symbolic enhancement of RSA designed to resist quantum adversaries using Shor’s algorithm, Grover’s algorithm, and quantum annealing.
 
 ---
 
@@ -25,7 +25,7 @@ We are proud to announce the **v1.1 release** of **Quantum-Disruptive RSA (QD-RS
 - 🧪 Reference implementation: Python, C, and C# versions
 - 🧪 Minimal tests for symbolic layer validation
 - 📄 Cryptanalysis Challenge Brief (PDF)
-- 📜 Version Declaration v1.1 (PDF)
+- 📜 Version Declaration v1.2 (PDF)
 - ⚖️ Non-Commercial License (LICENSE.txt)
 - 🗂 .zenodo.json for Zenodo DOI automation
 
@@ -34,11 +34,11 @@ We are proud to announce the **v1.1 release** of **Quantum-Disruptive RSA (QD-RS
 ## 📢 Open Challenge (Pinned Issue)
 
 We're inviting the cryptographic community to break or bypass any part of the QD-RSA design under controlled assumptions.  
-See the pinned GitHub issue: “🔓 Open Challenge: Break QD-RSA v1.1”
+See the pinned GitHub issue: “🔓 Open Challenge: Break QD-RSA v1.2”
 
 ---
 
 ## 📬 Contact
 
 For confidential analysis results or disclosures:  
-📧 validation@kapodistrian.academy
+📧 validation@kapodistrian.edu.gr
