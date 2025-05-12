@@ -25,7 +25,7 @@ See LICENSE.txt for details.
 validation@kapodistrian.academy
 
 
-# 🔓 Open Challenge: Break QD-RSA v1.1
+# 🔓 Open Challenge: Break QD-RSA v1.2
 
 **Welcome to the official QD-RSA cryptanalysis challenge.**
 This pinned issue invites cryptographers, security researchers, and quantum computing experts to rigorously analyze and test the QD-RSA v1.1 system.
