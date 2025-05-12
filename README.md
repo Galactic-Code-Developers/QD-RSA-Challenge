@@ -21,6 +21,10 @@ QD-RSA introduces three entropy-hardened symbolic transformations:
 This repository is distributed under a non-commercial academic research license.
 See LICENSE.txt for details.
 
+### 🧩 Signature Layer Independence
+QD-RSA v1.2 does not rely on any single post-quantum signature authority. Its design supports pluggable integration with Falcon, Dilithium, SPHINCS+, XMSS, Rainbow, and sovereign PQ signature schemes.
+
+
 ## Contact
 validation@kapodistrian.edu.gr
 
@@ -68,9 +72,6 @@ Please provide:
 - Cryptanalysis Challenge Brief (PDF)
 - Version Declaration v1.2
 - Reference Implementation (Python, C, C#)
-
-### 🧩 Signature Layer Independence
-QD-RSA v1.2 does not rely on any single post-quantum signature authority. Its design supports pluggable integration with Falcon, Dilithium, SPHINCS+, XMSS, Rainbow, and sovereign PQ signature schemes.
 
 ## 📬 Contact
 
