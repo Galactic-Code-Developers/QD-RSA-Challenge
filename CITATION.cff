@@ -1,7 +1,7 @@
 cff-version: 1.2.0
 message: "If you use QD-RSA in your research, please cite the following metadata."
 title: "Quantum-Disruptive RSA (QD-RSA): A Post-Quantum Cryptographic Framework"
-version: "1.1"
+version: "1.2"
 doi: "10.5281/zenodo.15387963"  # Replace with real DOI once published
 date-released: 2024-05-12
 authors:
