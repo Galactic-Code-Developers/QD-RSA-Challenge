@@ -22,7 +22,7 @@ This repository is distributed under a non-commercial academic research license.
 See LICENSE.txt for details.
 
 ## Contact
-validation@kapodistrian.academy
+validation@kapodistrian.edu.gr
 
 
 # 🔓 Open Challenge: Break QD-RSA v1.2
