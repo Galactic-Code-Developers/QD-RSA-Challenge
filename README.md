@@ -3,7 +3,7 @@
 [![Backdoor-Free Verified](https://img.shields.io/badge/Backdoor--Free-Verified-brightgreen?style=for-the-badge&logo=datadog&logoColor=white)](#)
 [![License: Non-Commercial](https://img.shields.io/badge/license-Non--Commercial-blue.svg)](LICENSE.txt)
 
-This repository contains the public specification, challenge brief, and reference implementation for QD-RSA v1.1—a quantum-resilient RSA enhancement.
+This repository contains the public specification, challenge brief, and reference implementation for QD-RSA v1.2—a quantum-resilient RSA enhancement.
 
 ## Overview
 QD-RSA introduces three entropy-hardened symbolic transformations:
