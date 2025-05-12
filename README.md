@@ -71,7 +71,7 @@ Please provide:
 
 ## 📬 Contact
 
-For confidential disclosures: validation@kapodistrian.academy
+For confidential disclosures: validation@kapodistrian.edu.gr
 
 
 ## 🔐 FAQ: Does QD-RSA contain any government-access mechanism or DoD backdoor?
