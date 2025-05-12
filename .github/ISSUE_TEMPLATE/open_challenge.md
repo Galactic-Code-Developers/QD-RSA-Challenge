@@ -1,6 +1,6 @@
 ---
 name: "🔓 Cryptanalysis Submission"
-about: Submit findings, theoretical attacks, or implementation flaws in QD-RSA v1.1
+about: Submit findings, theoretical attacks, or implementation flaws in QD-RSA v1.2
 title: "[Challenge] "
 labels: [cryptanalysis]
 assignees: ''
@@ -34,4 +34,4 @@ Any limitations, observations, or side effects of your method? Was it partial, f
 ---
 
 🔖 This submission will be publicly reviewed and archived.  
-📧 For confidential disclosure: validation@kapodistrian.academy
+📧 For confidential disclosure: validation@kapodistrian.edu.gr
