@@ -13,7 +13,7 @@ QD-RSA introduces three entropy-hardened symbolic transformations:
 
 ## Files
 - `QD_RSA_Cryptanalysis_Challenge_Brief.pdf` – Public audit and attack challenge brief
-- `QD_RSA_v1.1_Version_Declaration.pdf` – Formal versioning declaration
+- `QD_RSA_v1.2_Version_Declaration.pdf` – Formal versioning declaration
 - `LICENSE.txt` – Non-commercial use terms
 - `/reference_implementation/` – Python modules for demonstration and attack testing
 
@@ -28,7 +28,7 @@ validation@kapodistrian.academy
 # 🔓 Open Challenge: Break QD-RSA v1.2
 
 **Welcome to the official QD-RSA cryptanalysis challenge.**
-This pinned issue invites cryptographers, security researchers, and quantum computing experts to rigorously analyze and test the QD-RSA v1.1 system.
+This pinned issue invites cryptographers, security researchers, and quantum computing experts to rigorously analyze and test the QD-RSA v1.2 system.
 
 ## 📌 Objective
 
@@ -66,7 +66,7 @@ Please provide:
 ## 🧠 Reference Materials
 
 - Cryptanalysis Challenge Brief (PDF)
-- Version Declaration v1.1
+- Version Declaration v1.2
 - Reference Implementation (Python, C, C#)
 
 ## 📬 Contact
