@@ -1,0 +1,29 @@
+{
+  "title": "Quantum-Disruptive RSA (QD-RSA): v1.1 Release",
+  "upload_type": "software",
+  "description": "QD-RSA v1.1 introduces symbolic, entropy-hardened enhancements to classical RSA to protect against quantum threats. This initial release invites public cryptanalysis and deployment evaluation.\n\n\ud83d\udd10 \u03a6\u209b(x): Session-specific irrational masking\n\ud83d\udd10 \u039e\u209b(x): Entropy-shifted non-convex trap function\n\ud83d\udd10 \ud835\udcd8\u209b*(x): Symbolic hash wrapped in SHA3-256\n\nIncludes: Python, C, and C# reference implementations, version declaration, cryptanalysis brief, and test suite.\n\nThis release is certified backdoor-free: no embedded recovery key, trapdoor, or government-accessible override mechanism.",
+  "creators": [
+    {
+      "name": "Valamontes, Antonis",
+      "affiliation": "Kapodistrian Academy of Science",
+      "orcid": "https://orcid.org/0000-0002-1825-0097"
+    }
+  ],
+  "version": "v1.1",
+  "license": "other-open",
+  "keywords": [
+    "quantum cryptography",
+    "post-quantum RSA",
+    "Grover resistance",
+    "Shor resistance",
+    "digital signatures",
+    "public cryptanalysis"
+  ],
+  "related_identifiers": [
+    {
+      "identifier": "https://github.com/KapodistrianCrypto/QD-RSA-Challenge",
+      "relation": "isSupplementTo",
+      "scheme": "url"
+    }
+  ]
+}
